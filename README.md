@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi 👋
+
+<h4>My tech stack</h4>
+
+![java](https://img.shields.io/badge/-java-orange)
+![spring framework](https://img.shields.io/badge/-spring%20framework-green)
+![javascript](https://img.shields.io/badge/-javascript-orange)
+![python](https://img.shields.io/badge/-python-orange)
+![c#](https://img.shields.io/badge/-c%23-orange)
+![aws](https://img.shields.io/badge/-aws-blue)
+![firebase](https://img.shields.io/badge/-firebase-blue)
 
 <!--
 **SeoKanghee/SeoKanghee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
