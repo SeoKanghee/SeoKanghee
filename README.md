@@ -5,7 +5,7 @@
 <h4>My tech stack</h4>
 
 ![java](https://img.shields.io/badge/-java-orange)
-![spring framework](https://img.shields.io/badge/-spring%20framework-green)
+![spring boot](https://img.shields.io/badge/-spring%20boot-green)
 ![javascript](https://img.shields.io/badge/-javascript-orange)
 ![python](https://img.shields.io/badge/-python-orange)
 ![c#](https://img.shields.io/badge/-c%23-orange)
